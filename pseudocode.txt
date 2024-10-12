@@ -1,0 +1,6 @@
+1. Open file in append mode
+2. Take user input and append to file
+3. Open file in read mode
+4. Create output for reverse file
+5. Create vector of file chars
+6. Reverse file
